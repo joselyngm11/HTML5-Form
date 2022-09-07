@@ -1,0 +1,26 @@
+/*.card{
+    max-width: 48rem;
+    margin: auto;
+}
+
+i {
+    color: white;
+}
+
+.payment {
+    width: 16rem;
+    padding: 5px 0 5px 10px;
+}
+
+small {
+    color: grey;
+    font-size: 12px;
+}
+
+.card-footer {
+    gap: 10px;
+}*/
+
+.alert-danger{
+    display: none;
+}
